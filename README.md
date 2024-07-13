@@ -2,4 +2,4 @@
 
 <h2>Dibuat dengan HTML, CSS, dan JavaScript</h2>
 
-Demo: naufalizzuddin.github.io/coffee-shop
+Demo: [naufalizzuddin.github.io/coffee-shop](naufalizzuddin.github.io/coffee-shop)
